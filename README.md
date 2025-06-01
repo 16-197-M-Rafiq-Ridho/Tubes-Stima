@@ -4,7 +4,8 @@
 ##  Deskripsi
 
 <p align="justify">
-  Bot dalam permainan ini menggunakan algoritma greedy yang memungkinkan pengambilan keputusan cepat dan efisien. Bot secara otomatis mencari diamond terdekat dan     memprioritaskan pengambilan berdasarkan kondisi saat ini, sehingga meningkatkan peluang pemain untuk meraih kemenangan.
+  Algoritma greedy yang digunakan oleh bot ini mengambil keputusan terbaik di setiap langkah berdasarkan kondisi saat itu, tanpa memperhitungkan dampak jangka panjang. Bot secara konsisten memilih diamond terdekat sebagai target utama dan bergerak langsung menuju posisinya untuk mengoptimalkan pengumpulan diamond secara cepat dan efisien. Jika inventory bot sudah penuh, bot segera kembali ke base untuk menyimpan diamond dan bersiap mengumpulkan diamond lagi. Dalam beberapa situasi, bot juga memanfaatkan fitur teleport jika terbukti dapat mempersingkat jarak menuju target seperti diamond atau base, demi meningkatkan efisiensi gerakan. Saat bot menentukan arah gerakan, bot memastikan bahwa langkah yang dipilih valid dan sesuai aturan permainan. Jika langkah pertama tidak memungkinkan, bot akan mencari alternatif gerakan lain. Pemilihan langkah dilakukan berdasarkan perhitungan jarak yang bertujuan untuk selalu mendekat ke target, menjadikan keputusan bersifat cepat dan lokal. Namun, bot tidak mempertimbangkan strategi jangka panjang seperti memilih diamond yang lebih bernilai tetapi lebih jauh, sehingga fokus utamanya adalah pada keuntungan langsung di setiap langkah.
+
 </p>
 
 ## Cara menjalankan bot
