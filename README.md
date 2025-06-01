@@ -1,10 +1,10 @@
 
-# <h1 align="center">TUBE STIMA</h1>
+# <h1 align="center">TUBES STIMA</h1>
 
 ##  Deskripsi
 
 <p align="justify">
-  
+  Bot dalam permainan ini menggunakan algoritma greedy yang memungkinkan pengambilan keputusan cepat dan efisien. Bot secara otomatis mencari diamond terdekat dan     memprioritaskan pengambilan berdasarkan kondisi saat ini, sehingga meningkatkan peluang pemain untuk meraih kemenangan.
 </p>
 
 ## Cara menjalankan bot
