@@ -10,9 +10,9 @@
 ## Cara menjalankan bot
 <p>1. Pastikan sudah mendownload python dan jika belum installer di https://www.python.org/
       dan centang opsi “Add Python to PATH” saat instalasi</p>
-<p>2. Dowloan file game engine [klik disini](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0)</p>
+<p>2. Dowloan file zip game engine (https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0) atau dapat melihat panduan lbih lengkapnya</p>
 
-<p>3. Download file bot starter pack [klik disini](https://github.com/16-197-M-Rafiq-Ridho/Tubes-Stima)</p>
+<p>3. Download file bot starter pack (https://github.com/16-197-M-Rafiq-Ridho/Tubes-Stima)</p>
 
 <p>4. download Node.js (https://nodejs.org/en) dan docker (https://www.docker.com/products/docker-desktop/)</p>
 
