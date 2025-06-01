@@ -7,12 +7,6 @@
   
 </p>
 
-## Bahasa Yang Digunakan
-
-<ol>
-    <li> Python</li>
-</ol>
-
 ## Cara menjalankan bot
 <p>1. Pastikan sudah mendownload python dan jika belum installer di https://www.python.org/
       dan centang opsi “Add Python to PATH” saat instalasi</p>
@@ -20,7 +14,7 @@
 
 <p>3. Download file bot starter pack [klik disini](https://github.com/16-197-M-Rafiq-Ridho/Tubes-Stima)</p>
 
-<p>4. download [Node.js](https://nodejs.org/en) dan [docker](https://www.docker.com/products/docker-desktop/)</p>
+<p>4. download Node.js (https://nodejs.org/en) dan docker (https://www.docker.com/products/docker-desktop/)</p>
 
 ## Buka CMD lalu
 1. Masuk direktori game engine
