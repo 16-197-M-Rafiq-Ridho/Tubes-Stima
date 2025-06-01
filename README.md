@@ -10,7 +10,7 @@
 ## Cara menjalankan bot
 <p>1. Pastikan sudah mendownload python dan jika belum installer di https://www.python.org/
       dan centang opsi “Add Python to PATH” saat instalasi</p>
-<p>2. Dowloan file zip game engine (https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0) atau dapat melihat panduan lbih lengkapnya</p>
+<p>2. Dowloan file zip game engine (https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0) atau dapat mendownload panduan untuk lebih lengkapnya</p>
 
 <p>3. Download file bot starter pack (https://github.com/16-197-M-Rafiq-Ridho/Tubes-Stima)</p>
 
@@ -72,6 +72,30 @@
 ```
 npm run start
 ```
+
+## Menjalankan bot
+1. masuk directory bot starterpack
+   ```
+   cd ./tubes1-IF2211-bot-starter-pack-1.0.1
+   ```
+2. Install dependencies menggunakan pip
+   ```
+   pip install -r requirements.txt
+   ```
+3. Run
+  Untuk menjalankan satu bot (pada contoh ini, kita menjalankan satu bot dengan logic yang terdapat pada file game/logic/random.py)
+   ```
+   python main.py --logic Random --email=your_email@example.com --name=your_name --password=your_password --team etimo
+   ```
+   Untuk menjalankan beberapa bot sekaligus
+   untuk windows
+   ```
+   run-bots.bat
+   ```
+   untuk linux
+   ```
+   ./run-bots.sh
+   ```
 
 <p>and Enjjooyyyy.........walaupun bekum optimal</p>
 
